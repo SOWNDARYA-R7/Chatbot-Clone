@@ -26,3 +26,33 @@ in VS code
 
 used for Titel and logo settings
 
+## Folder Structure
+client
+  |
+  |----components
+
+  |----pages
+
+  |----context
+
+  |----asserts
+  |----
+  |
+
+## To use Tailwind css in vite
+
+npm install tailwindcss @tailwindcss/vite
+
+result - vite.config.js file
+inside vite.config.js
+import tailwindcss for vite by using comment
+
+import tailwindcss from '@tailwindcss/vite'
+inside plugins array add
+tailwindcss()
+
+## using google fonts 
+go to google font website 
+search outfit
+grt embedded code
+copy paste the code inside index.css
