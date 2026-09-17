@@ -54,5 +54,7 @@ tailwindcss()
 ## using google fonts 
 go to google font website 
 search outfit
-grt embedded code
+get embedded code
 copy paste the code inside index.css
+
+## Write path in App.js
