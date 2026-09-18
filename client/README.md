@@ -65,3 +65,9 @@ Sidebar is default so Add if before Route
 This project uses React Context API for global state management. The AppContextProvider wraps the application and provides shared state (like user authentication data). Components can access this state using the useAppContext hook, which makes it easier to manage data without passing props through multiple levels.
 
 children is App.js here
+
+# SideBar
+* Logo
+* New Chat button
+* Search Conversation
+ 
